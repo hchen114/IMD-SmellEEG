@@ -1,5 +1,6 @@
 # Progress Demo Video: https://youtu.be/UeapUsMBFNw
 
+EEG python toolkit from Myungin Lee
 # IMD Lab - EEG Toolkit
 ## Usage
 
